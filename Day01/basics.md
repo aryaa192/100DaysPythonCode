@@ -1,23 +1,22 @@
+```
 #############################################################
 ###Programme: Reverse the integer given  #
 ###Author Name: Amit Arya                #
 ###Date: Fri Sep 16 22:52:02 IST 2022    #
 #############################################################
+```
+># Single line comments start with a number symbol.
 
-```
-# Single line comments start with a number symbol.
-```
-```
-""" Multiline strings can be written
+>""" Multiline strings can be written
     using three "s, and are often used
     as documentation.
 """
-```
 
+```
 ####################################################
 ###1. Primitive Datatypes and Operators
 ####################################################
-
+```
 ###You have numbers
 3  # => 3
 
