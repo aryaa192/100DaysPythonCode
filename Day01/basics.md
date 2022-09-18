@@ -160,10 +160,11 @@
 >bool(())    # => False
 >bool(set()) # => False
 
+```
 ####################################################
 ###2. Variables and Collections
 ####################################################
-
+```
 ###Python has a print function
 ```
 print("I'm Python. Nice to meet you!")  # => I'm Python. Nice to meet you!
@@ -385,11 +386,11 @@ filled_set | other_set  # => {1, 2, 3, 4, 5, 6}
 filled_set = some_set.copy()  # filled_set is {1, 2, 3, 4, 5}
 filled_set is some_set        # => False
 
-
+```
 ####################################################
 ## 3. Control Flow and Iterables
 ####################################################
-
+```
 # Let's just make a variable
 some_var = 5
 
@@ -550,12 +551,13 @@ for i in our_iterator:
 list(our_iterable)  # => Returns ["one", "two", "three"]
 list(our_iterator)  # => Returns [] because state is saved
 
-
+```
 ####################################################
 ## 4. Functions
 ####################################################
-
+```
 # Use "def" to create new functions
+```
 def add(x, y):
     print("x is {} and y is {}".format(x, y))
     return x + y  # Return values with a return statement
